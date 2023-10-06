@@ -1,0 +1,67 @@
+C:\Users\root\source\repos\DOAN\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\root\source\repos\DOAN\DOAN\bin\Debug\DOAN.exe
+C:\Users\root\source\repos\DOAN\DOAN\bin\Debug\DOAN.pdb
+C:\Users\root\source\repos\DOAN\DOAN\obj\Debug\DOAN.csprojAssemblyReference.cache
+C:\Users\root\source\repos\DOAN\DOAN\obj\Debug\DOAN.Form1.resources
+C:\Users\root\source\repos\DOAN\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\root\source\repos\DOAN\DOAN\obj\Debug\DOAN.usVeMayBay.resources
+C:\Users\root\source\repos\DOAN\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+C:\Users\root\source\repos\DOAN\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\DOAN\DOAN\obj\Debug\DOAN.exe
+C:\Users\root\source\repos\DOAN\DOAN\obj\Debug\DOAN.pdb
+C:\Users\Administrator\Downloads\DOAN\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\Administrator\Downloads\DOAN\DOAN\bin\Debug\DOAN.exe
+C:\Users\Administrator\Downloads\DOAN\DOAN\bin\Debug\DOAN.pdb
+C:\Users\Administrator\Downloads\DOAN\DOAN\obj\Debug\DOAN.Login.resources
+C:\Users\Administrator\Downloads\DOAN\DOAN\obj\Debug\DOAN.TrangChu.resources
+C:\Users\Administrator\Downloads\DOAN\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\Administrator\Downloads\DOAN\DOAN\obj\Debug\DOAN.ThongTinChuyenBay.resources
+C:\Users\Administrator\Downloads\DOAN\DOAN\obj\Debug\DOAN.ThongTinChuyenTau.resources
+C:\Users\Administrator\Downloads\DOAN\DOAN\obj\Debug\DOAN.usTrangChu.resources
+C:\Users\Administrator\Downloads\DOAN\DOAN\obj\Debug\DOAN.usVeMayBay.resources
+C:\Users\Administrator\Downloads\DOAN\DOAN\obj\Debug\DOAN.usVeTauHoa.resources
+C:\Users\Administrator\Downloads\DOAN\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\DOAN\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\DOAN\DOAN\obj\Debug\DOAN.exe
+C:\Users\Administrator\Downloads\DOAN\DOAN\obj\Debug\DOAN.pdb
+C:\Users\Administrator\Downloads\DOAN\DOAN\obj\Debug\DOAN.csprojAssemblyReference.cache
+C:\Users\root\Desktop\DOAN\DOAN\obj\Debug\DOAN.Login.resources
+C:\Users\root\Desktop\DOAN\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\root\Desktop\DOAN\DOAN\obj\Debug\DOAN.TrangChu.resources
+C:\Users\root\Desktop\DOAN\DOAN\obj\Debug\DOAN.usKhachHang.resources
+C:\Users\root\Desktop\DOAN\DOAN\obj\Debug\DOAN.usVeMayBay.resources
+C:\Users\root\Desktop\DOAN\DOAN\obj\Debug\DOAN.usVeTauHoa.resources
+C:\Users\root\Desktop\DOAN\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+C:\Users\root\Desktop\DOAN\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\DOAN\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\root\Desktop\DOAN\DOAN\bin\Debug\DOAN.exe
+C:\Users\root\Desktop\DOAN\DOAN\bin\Debug\DOAN.pdb
+C:\Users\root\Desktop\DOAN\DOAN\obj\Debug\DOAN.exe
+C:\Users\root\Desktop\DOAN\DOAN\obj\Debug\DOAN.pdb
+C:\Users\ASUS\Desktop\DOAN (3)\DOAN\DOAN\bin\Debug\DOAN.exe.config
+C:\Users\ASUS\Desktop\DOAN (3)\DOAN\DOAN\bin\Debug\DOAN.exe
+C:\Users\ASUS\Desktop\DOAN (3)\DOAN\DOAN\bin\Debug\DOAN.pdb
+C:\Users\ASUS\Desktop\DOAN (3)\DOAN\DOAN\obj\Debug\DOAN.Login.resources
+C:\Users\ASUS\Desktop\DOAN (3)\DOAN\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+C:\Users\ASUS\Desktop\DOAN (3)\DOAN\DOAN\obj\Debug\DOAN.TrangChu.resources
+C:\Users\ASUS\Desktop\DOAN (3)\DOAN\DOAN\obj\Debug\DOAN.usKhachHang.resources
+C:\Users\ASUS\Desktop\DOAN (3)\DOAN\DOAN\obj\Debug\DOAN.usVeMayBay.resources
+C:\Users\ASUS\Desktop\DOAN (3)\DOAN\DOAN\obj\Debug\DOAN.usVeTauHoa.resources
+C:\Users\ASUS\Desktop\DOAN (3)\DOAN\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\DOAN (3)\DOAN\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DOAN (3)\DOAN\DOAN\obj\Debug\DOAN.exe
+C:\Users\ASUS\Desktop\DOAN (3)\DOAN\DOAN\obj\Debug\DOAN.pdb
+C:\Users\ASUS\Desktop\DOAN (3)\DOAN\DOAN\obj\Debug\DOAN.csprojAssemblyReference.cache
+E:\chuyende\DOAN\DOAN\bin\Debug\DOAN.exe.config
+E:\chuyende\DOAN\DOAN\bin\Debug\DOAN.exe
+E:\chuyende\DOAN\DOAN\bin\Debug\DOAN.pdb
+E:\chuyende\DOAN\DOAN\obj\Debug\DOAN.Login.resources
+E:\chuyende\DOAN\DOAN\obj\Debug\DOAN.Properties.Resources.resources
+E:\chuyende\DOAN\DOAN\obj\Debug\DOAN.TrangChu.resources
+E:\chuyende\DOAN\DOAN\obj\Debug\DOAN.usKhachHang.resources
+E:\chuyende\DOAN\DOAN\obj\Debug\DOAN.usVeMayBay.resources
+E:\chuyende\DOAN\DOAN\obj\Debug\DOAN.usVeTauHoa.resources
+E:\chuyende\DOAN\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+E:\chuyende\DOAN\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+E:\chuyende\DOAN\DOAN\obj\Debug\DOAN.exe
+E:\chuyende\DOAN\DOAN\obj\Debug\DOAN.pdb
